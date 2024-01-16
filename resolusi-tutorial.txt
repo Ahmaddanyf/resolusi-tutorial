@@ -1,0 +1,4 @@
+RESOLUSI
+- Konsisten untuk membuat tutorial
+- Membuat platform tutorial HTML, CSS dan Javascript
+- Membuat forum diskusi
